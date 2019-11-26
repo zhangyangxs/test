@@ -6,5 +6,7 @@ public class Hello {
         
         
         int i = 10;
+        System.out.println("commit");
+        System.out.println("commit");
     }
 }
